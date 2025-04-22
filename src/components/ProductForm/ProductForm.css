@@ -1,0 +1,23 @@
+.product-form {
+    background: #f9f9f9;
+    padding: 30px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.product-form .form-group {
+    margin-bottom: 15px;
+}
+.product-form .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.product-form .form-group input, .product-form .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.product-form .form-group textarea {
+    min-height: 100px;
+}

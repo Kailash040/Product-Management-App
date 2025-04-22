@@ -1,0 +1,7 @@
+.home-page{
+    display: flex;
+    justify-content: space-between;
+}
+.product_container{
+    width: 40%;
+}
